@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity & Web DevApp Projects :</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Vulnerability Management Home lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
- - [Amazone web app development](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
+  - [Active Directory Home Lab]
+ - [Vulnerability Management Home lab]
+ - [Amazone web app development]  
 - <b>PowerShell</b>
 
 <h2>📺 Popular YouTube Videos</h2>
